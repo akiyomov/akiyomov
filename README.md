@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akiyomov
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Data Structures and Algorithms, Django, Django-Rest-Framework, SQL, ML, AI
-- 💞️ I’m looking to collaborate on Django projects
+- 👀 I’m interested in Computer science
+- 🌱 I’m currently learning Data Structures and Algorithms, Probability and Statistics, Machine Learning, Deep Learning, AI
 - 📫 How to reach me asadbey0331@gmail.com
 
 <!---
