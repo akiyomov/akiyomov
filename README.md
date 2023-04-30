@@ -36,7 +36,7 @@ Here are some of the programming languages, technologies, and tools I have exper
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=5586e9)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=5586e9)
 
-### Check out my [portfolio](https://my_portfolio_url.com/) for more!
+### Check out my [portfolio](https://akiyomov.github.io/) for more!
 
 ## 📫 How to reach me
 Feel free to connect with me. I'm always eager to collaborate and learn from each other. 
