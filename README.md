@@ -43,6 +43,7 @@ Feel free to connect with me. I'm always eager to collaborate and learn from eac
 
 - Email: asadbey0331@gmail.com
 - LinkedIn: [Asadbey](https://www.linkedin.com/in/asadbey/)
+### Stats
 [![Asadbek's github stats](https://github-readme-stats.vercel.app/api?username=akiyomov&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark )](https://github.com/anuraghazra/github-readme-stats)
 [![Asadbek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiyomov&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
