@@ -44,8 +44,8 @@ Feel free to connect with me. I'm always eager to collaborate and learn from eac
 - Email: asadbey0331@gmail.com
 - LinkedIn: [Asadbey](https://www.linkedin.com/in/asadbey/)
 ### Stats
-[![Asadbek's github stats](https://github-readme-stats.vercel.app/api?username=akiyomov&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark )](https://github.com/anuraghazra/github-readme-stats)
-[![Asadbek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiyomov&&exclude_repo=DevSearchUz,aiproject,fallprediction,akiyomov.github.io&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Asadbek's github stats](https://github-readme-stats.vercel.app/api?username=akiyomov&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
+[![Asadbek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiyomov&&exclude_repo=DevSearchUz,aiproject,fallprediction,akiyomov.github.io&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 akiyomov/akiyomov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
